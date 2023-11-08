@@ -17,3 +17,4 @@ int main()
 	printf("it is not an armstrong numebr");
 	return 0;
 }
+//
